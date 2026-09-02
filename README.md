@@ -1,6 +1,6 @@
-# AI Studio
+# MultiInfer
 
-AI Studio is a beginner-friendly full-stack project that lets you try 8 AI features from a web app.
+Beginner-friendly full-stack project that lets you try 8 AI features from a web app.
 
 - **Frontend:** React
 - **Backend:** FastAPI
